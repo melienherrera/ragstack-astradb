@@ -1,12 +1,12 @@
 locale,key,value
 
-en_US,load_text,chuncks loaded into Astra DB
-en_US,load_pdf,chuncks loaded into Astra DB
-en_US,load_csv,chuncks loaded into Astra DB
+en_US,load_text,chunks loaded into Astra DB
+en_US,load_pdf,chunks loaded into Astra DB
+en_US,load_csv,chunks loaded into Astra DB
 en_US,load_embedding,Getting the OpenAI embedding...
 en_US,load_vectorstore,Getting the Vector Store from Astra DB...
 en_US,load_message_history,Getting the Message History from Astra DB...
-en_US,assistant_welcome,"Hi, I'm your personal assistant and am ready to help!"
+en_US,assistant_welcome,"Hi, I'm your personal music sidekick and am ready to help!"
 en_US,logout_caption,Welcome! Logged in as user
 en_US,logout_button,Logout
 en_US,disable_chat_history,Disable Chat History
