@@ -1,4 +1,4 @@
-### Your Personal Music Sidekick
+### Spotify, I Am Your Personal Music Sidekick
 Music Evolved: Your Personal Playlist Alchemist.
 
 #### Music Curation Magic = AI 
