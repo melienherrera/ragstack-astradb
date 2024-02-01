@@ -9,7 +9,7 @@ import streamlit as st
 
 from langchain.chat_models import ChatOpenAI
 from langchain.vectorstores import AstraDB
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain.memory import ConversationBufferWindowMemory
 from langchain.memory import AstraDBChatMessageHistory
 from langchain.text_splitter import RecursiveCharacterTextSplitter
