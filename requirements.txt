@@ -6,4 +6,4 @@ openai
 tiktoken
 pypdf
 pandas
-astrapy==0.7.0
+astrapy==0.7.3
