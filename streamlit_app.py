@@ -285,7 +285,7 @@ def describeImage(image_bin, language):
             "role": "user",
             "content": [
                 #{"type": "text", "text": "Describe the image in detail"},
-                {"type": "text", "text": f"Provide a search text for the main topic of the image writen in {language}"},
+                {"type": "text", "text": f"If there is a person in the photo, try to identify their mood to the best of your ability. If the photo does not contain a person, identify the overall event or tone being set by the photo. Provide a search text for the main topic that was identified by the image writen in {language}"},
                 {
                 "type": "image_url",
                 "image_url": {
