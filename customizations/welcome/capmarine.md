@@ -8,14 +8,16 @@ The most important differentiator in Qualitative Generative AI is Data. There is
 Providing the best data at the highest performance for Generative AI is done by using [DataStax Astra DB](https://db.new) as is underscored in [an independant research by GigaOM](https://www.datastax.com/resources/report/gigaom-study-vector-databases-compared).
 
 #### Start with this template
-Start by asking for additional information to create a flawless docking and repair specification.
-Ship type = 
-Problem = 
-Equipment = 
-Make = 
-Model = 
-System = 
-Location = 
-Access arrangements = 
-Height = 
+Populate and enter the following information to retrieve a flawless docking and repair specification. \
+_Ship type_ = \
+_Problem_ = \
+_Equipment_ = \
+_Make_ = \
+_Model_ = \
+_System_ = \
+_Location_ = \
+_Access arrangements_ = \
+_Height_ = 
+
+
 ---
